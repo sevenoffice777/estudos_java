@@ -1,2 +1,3 @@
-# estudos_java
-Uma "playlist" de todos os meus estudos iniciais em java!
+# Java - Inicio de uma jornada
+
+- 💕 Uma "playlist" de toda minha jornada em JAVA!
