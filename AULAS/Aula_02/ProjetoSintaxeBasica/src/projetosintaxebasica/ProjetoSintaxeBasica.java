@@ -17,10 +17,10 @@ public class ProjetoSintaxeBasica {
     public static void main(String[] args) {
         int idade  = 25;
         
-        System.out.println(idade);
-        
         double salario = 3500.50;
+        
         boolean isEstudante = true;
+        
         char inicial = 'S';
 
         // Operadores aritméticos
